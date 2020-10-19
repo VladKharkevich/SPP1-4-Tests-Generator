@@ -1,0 +1,23 @@
+﻿<Window x:Class="Tests_Generator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tests_Generator"
+        mc:Ignorable="d"
+        Title="Tests Generator" Height="470" Width="800">
+    <Grid Margin="10,10,10,10">
+        <WrapPanel HorizontalAlignment="Left" DockPanel.Dock="Top" Margin="23,10,0,0" Width="67">
+            <Button x:Name="btnOpenFile" Click="btnOpenFile_Click" Content="Open file" Width="67" Height="24"/>
+        </WrapPanel>
+        <WrapPanel HorizontalAlignment="Left" DockPanel.Dock="Top" Margin="505,10,0,0" Width="110">
+            <Button x:Name="btnChooseFolder" Click="btnChooseFolder_Click" Content="Choose folder" Width="103"/>
+            <Label x:Name="lblPathToFolder"></Label>
+        </WrapPanel>
+        <ListBox x:Name="lboxPathToFiles" Margin="0,37,390,317">
+        </ListBox>
+        <Label Content="Ограничение на секции конвейера" Margin="14,117,-4,-107"/>
+        <TextBox x:Name="tbLimit" Margin="0,158,527,227" HorizontalAlignment="Right" Width="220"/>
+        <Button x:Name="btnStart" Click="btnStart_Click" Content="Start" Margin="0,207,604,165" HorizontalAlignment="Right" Width="104" RenderTransformOrigin="0.667,0.281"/>
+    </Grid>
+</Window>

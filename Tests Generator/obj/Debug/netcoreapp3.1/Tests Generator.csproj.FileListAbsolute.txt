@@ -1,0 +1,19 @@
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator\obj\Debug\netcoreapp3.1\Tests Generator.csprojAssemblyReference.cache
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator\obj\Debug\netcoreapp3.1\Tests Generator_MarkupCompile.cache
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator\obj\Debug\netcoreapp3.1\Tests Generator_MarkupCompile.lref
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator\bin\Debug\netcoreapp3.1\Tests Generator.exe
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator\bin\Debug\netcoreapp3.1\Tests Generator.deps.json
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator\bin\Debug\netcoreapp3.1\Tests Generator.runtimeconfig.json
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator\bin\Debug\netcoreapp3.1\Tests Generator.runtimeconfig.dev.json
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator\bin\Debug\netcoreapp3.1\Tests Generator.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator\bin\Debug\netcoreapp3.1\Tests Generator.pdb
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator\obj\Debug\netcoreapp3.1\Tests Generator.g.resources
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator\obj\Debug\netcoreapp3.1\Tests Generator.AssemblyInfoInputs.cache
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator\obj\Debug\netcoreapp3.1\Tests Generator.AssemblyInfo.cs
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator\obj\Debug\netcoreapp3.1\Tests Generator.csproj.CoreCompileInputs.cache
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator\obj\Debug\netcoreapp3.1\Tests Generator.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator\obj\Debug\netcoreapp3.1\Tests Generator.pdb
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator\obj\Debug\netcoreapp3.1\Tests Generator.genruntimeconfig.cache
