@@ -1,0 +1,5 @@
+D:\Лабы 5 сем\CПП\Tests Generator\GeneratorTestClasses\bin\Debug\netcoreapp3.1\GeneratorTestClasses.deps.json
+D:\Лабы 5 сем\CПП\Tests Generator\GeneratorTestClasses\bin\Debug\netcoreapp3.1\GeneratorTestClasses.dll
+D:\Лабы 5 сем\CПП\Tests Generator\GeneratorTestClasses\obj\Debug\netcoreapp3.1\GeneratorTestClasses.csprojAssemblyReference.cache
+D:\Лабы 5 сем\CПП\Tests Generator\GeneratorTestClasses\obj\Debug\netcoreapp3.1\GeneratorTestClasses.AssemblyInfoInputs.cache
+D:\Лабы 5 сем\CПП\Tests Generator\GeneratorTestClasses\obj\Debug\netcoreapp3.1\GeneratorTestClasses.AssemblyInfo.cs

@@ -1,4 +1,5 @@
 ﻿using Microsoft.Win32;
+using Ookii.Dialogs.Wpf;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -24,7 +25,10 @@ namespace Tests_Generator
         }
         private void btnOpenFile_Click(object sender, RoutedEventArgs e)
         {
-            OpenFileDialog openFileDialog = new OpenFileDialog();
+            OpenFileDialog openFileDialog = new OpenFileDialog
+            {
+                Filter = "Cs files (*.cs)|*.cs",
+            };
             if (openFileDialog.ShowDialog() == true)
             {
                 ListBoxItem listBoxItem =  new ListBoxItem();
@@ -35,11 +39,32 @@ namespace Tests_Generator
 
         private void btnChooseFolder_Click(object sender, RoutedEventArgs e)
         {
-            
+            var ookiiDialog = new VistaFolderBrowserDialog();
+            if (ookiiDialog.ShowDialog() == true)
+            {
+                lblPathToFolder.Content = ookiiDialog.SelectedPath;
+            }
         }
+        
         private void btnStart_Click(object sender, RoutedEventArgs e)
         {
-
+            int number;
+            int.TryParse(tbLimit.Text, out number);
+            if (number <= 0)
+                lblResult.Content = "Ограничение по размеру секции конвейера должно быть положительным числом!";
+            else if (lblPathToFolder.Content.ToString() == "")
+                lblResult.Content = "Нужно выбрать конечную директорию для создания тестовых файлов!";
+            else
+            {
+                List<string> filenames = new List<string>();
+                foreach (ListBoxItem listBoxItem in lboxPathToFiles.Items)
+                {
+                    filenames.Add(listBoxItem.Content.ToString());
+                }
+                LoaderFromFile loaderFromFile = new LoaderFromFile(number, filenames);
+                loaderFromFile.Start();
+                lblResult.Content = "OK";
+            }
         }
     }
 }
