@@ -38,6 +38,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.CodeAnalysis.CSharp": {
+              "target": "Package",
+              "version": "[3.7.0, )"
+            },
             "Microsoft.CodeDom.Providers.DotNetCompilerPlatform": {
               "target": "Package",
               "version": "[3.6.0, )"

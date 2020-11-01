@@ -17,5 +17,6 @@
   </PropertyGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgMicrosoft_CodeDom_Providers_DotNetCompilerPlatform Condition=" '$(PkgMicrosoft_CodeDom_Providers_DotNetCompilerPlatform)' == '' ">C:\Users\khark\.nuget\packages\microsoft.codedom.providers.dotnetcompilerplatform\3.6.0</PkgMicrosoft_CodeDom_Providers_DotNetCompilerPlatform>
+    <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">C:\Users\khark\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0</PkgMicrosoft_CodeAnalysis_Analyzers>
   </PropertyGroup>
 </Project>

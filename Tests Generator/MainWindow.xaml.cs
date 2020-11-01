@@ -50,8 +50,8 @@ namespace Tests_Generator
         {
             int number;
             int.TryParse(tbLimit.Text, out number);
-            if (number <= 0)
-                lblResult.Content = "Ограничение по размеру секции конвейера должно быть положительным числом!";
+            if ((number <= 0) || (number > 100))
+                lblResult.Content = "Ограничение по размеру секции конвейера должно быть от 1 до 100!";
             else if (lblPathToFolder.Content.ToString() == "")
                 lblResult.Content = "Нужно выбрать конечную директорию для создания тестовых файлов!";
             else
@@ -61,8 +61,8 @@ namespace Tests_Generator
                 {
                     filenames.Add(listBoxItem.Content.ToString());
                 }
-                LoaderFromFile loaderFromFile = new LoaderFromFile(number, filenames);
-                loaderFromFile.Start();
+                Сonveyor conveyor = new Сonveyor(filenames, lblPathToFolder.Content.ToString(), number);
+                conveyor.Start().Wait();
                 lblResult.Content = "OK";
             }
         }
