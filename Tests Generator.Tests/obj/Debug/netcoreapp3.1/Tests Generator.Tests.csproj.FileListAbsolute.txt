@@ -87,8 +87,45 @@ D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netco
 D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\obj\Debug\netcoreapp3.1\Tests Generator.Tests.csprojAssemblyReference.cache
 D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\obj\Debug\netcoreapp3.1\Tests Generator.Tests.AssemblyInfoInputs.cache
 D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\obj\Debug\netcoreapp3.1\Tests Generator.Tests.AssemblyInfo.cs
-D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\obj\Debug\netcoreapp3.1\Tests Generator.Tests.csproj.CoreCompileInputs.cache
 D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\obj\Debug\netcoreapp3.1\Tests Generator.Tests.csproj.CopyComplete
 D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\obj\Debug\netcoreapp3.1\Tests Generator.Tests.dll
 D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\obj\Debug\netcoreapp3.1\Tests Generator.Tests.pdb
 D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\obj\Debug\netcoreapp3.1\Tests Generator.Tests.genruntimeconfig.cache
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\Tests Generator.exe
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\FluentAssertions.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\Ookii.Dialogs.Wpf.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\System.Threading.Tasks.Dataflow.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\GeneratorTestClassesLib.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\Tests Generator.dll
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\GeneratorTestClassesLib.pdb
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\bin\Debug\netcoreapp3.1\Tests Generator.pdb
+D:\Лабы 5 сем\CПП\Tests Generator\Tests Generator.Tests\obj\Debug\netcoreapp3.1\Tests Generator.Tests.csproj.CoreCompileInputs.cache

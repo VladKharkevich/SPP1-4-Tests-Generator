@@ -61,7 +61,7 @@ namespace Tests_Generator
                 {
                     filenames.Add(listBoxItem.Content.ToString());
                 }
-                Сonveyor conveyor = new Сonveyor(filenames, lblPathToFolder.Content.ToString(), number);
+                Conveyor conveyor = new Conveyor(filenames, lblPathToFolder.Content.ToString(), number);
                 conveyor.Start().Wait();
                 lblResult.Content = "OK";
             }
